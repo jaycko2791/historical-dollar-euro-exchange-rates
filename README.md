@@ -3,6 +3,8 @@
 
 Este archivo contiene la documentación técnica de la de la aplicación de prueba nativa en iOS
 
+![Simulador](https://github.com/jaycko2791/historical-dollar-euro-exchange-rates/blob/main/imagen.png)
+
 ### Empezando
 
 ##### Requisitos
